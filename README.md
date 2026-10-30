@@ -1,4 +1,4 @@
-# super_i_mobile
+# FLUTTER BOILERPLATE
 
 A new Flutter project.
 
